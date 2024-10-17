@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\myappDevOpsDemo",
-    "\\myappDevOpsDemo\\myappDevOpsDemo",
-    "\\myappDevOpsDemo\\myappDevOpsDemo\\Views",
-    "\\myappDevOpsDemo\\myappDevOpsDemo\\Views\\Home"
+    "\\myappDevOpsDemo"
   ],
-  "SelectedNode": "\\myappDevOpsDemo\\myappDevOpsDemo\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
